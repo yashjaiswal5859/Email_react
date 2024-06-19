@@ -1,4 +1,4 @@
-![image](https://github.com/yashjaiswal5859/Email_react/assets/60476018/745514ce-894f-4bf6-94fe-eba84e6cd4f8)Email_react
+Email_react
 In this app, I am going to show how we can send email using react
 
 # Backend dependencies
