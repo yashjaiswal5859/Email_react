@@ -41,5 +41,5 @@ Create new App<br>
 And then you will get your password <br>
 
 # Start app
-npm run server
+npm run server <br>
 npm start
