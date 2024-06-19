@@ -21,6 +21,7 @@ email-sender-app/
 │   │   └── server.js
 ├── package.json
 └── ...
+![image](https://github.com/yashjaiswal5859/Email_react/assets/60476018/4ba6197b-cf42-4afe-acd3-43c9832576b1)
 
 # package.json
 "scripts": {
