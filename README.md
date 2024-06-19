@@ -1,4 +1,4 @@
-![image](https://github.com/yashjaiswal5859/Email_react/assets/60476018/79472421-a4e2-4f86-abb6-12be34fe7847)# Email_react
+Email_react
 In this app, I am going to show how we can send email using react
 
 # Backend dependencies
@@ -21,7 +21,6 @@ npm install react react-dom
 │ │ └── server.js<br>
 ├── package.json<br>
 └── ...<br>
-![image](https://github.com/yashjaiswal5859/Email_react/assets/60476018/4ba6197b-cf42-4afe-acd3-43c9832576b1)
 
 # package.json
 "scripts": {
