@@ -38,5 +38,8 @@ Search for `App Password`<br>
 ![image](https://github.com/yashjaiswal5859/Email_react/assets/60476018/84b5c698-d0f1-4091-b598-b169937cc8ec)<br>
 Create new App<br>
 
-And then you will get your password
+And then you will get your password <br>
 
+# Start app
+npm run server
+npm start
